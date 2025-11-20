@@ -3,5 +3,6 @@
         "*.py": "python",
         "iostream": "cpp",
         "ostream": "cpp"
-    }
+    },
+    "discord.enabled": false
 }
